@@ -34,7 +34,7 @@ They can chat securely after that.
 For now on, the executable is in the 'debug' folder, in 'buildWindows'.
 Make sure you got all the needed ddls to run the application.
 
-Make sure you firewall isn't blocking the connection, and that your network allows connections on the choosen port.
+Make sure your firewall isn't blocking the connection, and that your network allows connections on the choosen port.
 
 
 ### Linux version
